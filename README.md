@@ -83,6 +83,6 @@ Unordered list:
 * Automatic on post publish
 * Customizable settings
 
-Here's a link to [WordPress](http://wordpress.org/ "Your favorite software") and one to [Anny0007 on GitHub](https://github.com/Anny0007/).
+Here's a link to [WordPress](https://wordpress.org/plugins/av-summarize-posts-text-to-speech/ ) and one to [Anny0007 on GitHub]([https://github.com/Anny0007/](https://github.com/Anny0007/AV-summarize-posts/edit/main)).
 
 > Make your content more accessible and engaging with AV Summarize Posts!
